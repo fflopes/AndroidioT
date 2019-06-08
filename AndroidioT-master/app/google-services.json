@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23389308240",
+    "firebase_url": "https://androidiot-scj32-i.firebaseio.com",
+    "project_id": "androidiot-scj32-i",
+    "storage_bucket": "androidiot-scj32-i.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23389308240:android:5144d0f62d91ccf6",
+        "android_client_info": {
+          "package_name": "br.com.tokunaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23389308240-j27ba4aarqrlg83026qmt7rds9vp6q4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tokunaga",
+            "certificate_hash": "b38e0c0868463785a14d48fc667d5147194b25f6"
+          }
+        },
+        {
+          "client_id": "23389308240-ohthpmn2ubhj9pk62cng8dl8t3o2t22q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ13s8ZB9UCS1qowhD8FsgClfrw08Ovck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23389308240-ohthpmn2ubhj9pk62cng8dl8t3o2t22q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
